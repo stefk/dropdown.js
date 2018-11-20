@@ -1,6 +1,6 @@
 {
   "name": "dropdown.js",
-  "version": "0.0.2dev",
+  "version": "0.0.3",
   "description": "Finally a dropdown plugin that transforms select inputs in nice dropdowns and does not drive you crazy.",
   "main": "jquery.dropdown",
   "repository": {
